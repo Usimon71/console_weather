@@ -56,3 +56,5 @@ configs/city.json
 #CLion
 cmake-build-debug
 .cmake
+.idea
+Testing
