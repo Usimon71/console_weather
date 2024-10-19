@@ -1,9 +1,9 @@
 cmake_minimum_required(VERSION 3.12)
 
 project(
-    labwork7
+    ConsoleWeather
     VERSION 1.0
-    DESCRIPTION "C++ Year 2024 labwork7"
+    DESCRIPTION "Weather Forecast Console Application"
     LANGUAGES CXX
 )
 
